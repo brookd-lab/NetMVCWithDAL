@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetDAL", "NetDAL\NetDAL.csproj", "{16BDA83F-9454-41C7-9A80-74F76452B1CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetWithDAL", "..\NetWithDAL\NetWithDAL.csproj", "{AD6E8598-6E72-4319-8A0D-8D4A16C53896}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16BDA83F-9454-41C7-9A80-74F76452B1CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16BDA83F-9454-41C7-9A80-74F76452B1CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16BDA83F-9454-41C7-9A80-74F76452B1CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16BDA83F-9454-41C7-9A80-74F76452B1CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD6E8598-6E72-4319-8A0D-8D4A16C53896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD6E8598-6E72-4319-8A0D-8D4A16C53896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD6E8598-6E72-4319-8A0D-8D4A16C53896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD6E8598-6E72-4319-8A0D-8D4A16C53896}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97545B08-A615-4DD6-88B7-ED8FB56D43E3}
+	EndGlobalSection
+EndGlobal
